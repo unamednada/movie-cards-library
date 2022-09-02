@@ -2,6 +2,7 @@
   "name": "movie-library-cards",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://unamednada.github.io/movie-cards-library",
   "dependencies": {
     "acorn": ">=7.1.1",
     "minimist": ">=1.2.3",
@@ -11,6 +12,8 @@
     "serialize-javascript": ">=2.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --verbose=true",

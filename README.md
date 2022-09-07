@@ -18,7 +18,7 @@ Projeto incentivado pela Trybe, no módulo de front-end do curso de Desenvolvime
 
 ### Protótipo do projeto
 
-![Project Gif](./out.gif)
+![Project Gif](./preview.png)
 
 ### 🗒 PARA RODAR O MOVIE CARDS LIBRARY LOCALMENTE:
 

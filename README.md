@@ -20,6 +20,8 @@ Projeto incentivado pela Trybe, no módulo de front-end do curso de Desenvolvime
 
 ![Project Gif](./preview.png)
 
+## [Deploy](https://unamednada.github.io/movie-cards-library/)
+
 ### 🗒 PARA RODAR O MOVIE CARDS LIBRARY LOCALMENTE:
 
 1. Clone o repositório
